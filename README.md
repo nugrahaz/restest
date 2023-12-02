@@ -1,3 +1,5 @@
-https://reqres.in/
+ReqRes API : https://reqres.in/
 
-email: eve.holt@reqres.in
+Authentication
+email: eve.holt@reqres.in (should use this)
+password: cityslicka (can use another password)
